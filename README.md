@@ -1,6 +1,6 @@
 # React-Native-QuizApp
 
-### [Source Credits : alaoui abdellah ](https://github.com/haikyuu)
+
 ### [Music Credits : Audio Library Plus — Official Releases ](https://www.youtube.com/watch?v=GTjQgOwbNPo&list=PLzCxunOM5WFKZuBXTe8EobD6Dwi4qV-kO&index=6)
 
 
